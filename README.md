@@ -1,4 +1,9 @@
 # go-nbrb
+db_connect
+        User:   "username"
+        Passwd: "password"
+main
+  ListenAndServe :8888
 
 Возвращаемые результаты в json из консоли или http сервера
 
